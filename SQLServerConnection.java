@@ -4,10 +4,10 @@ public class SQLServerConnection {
 
     public static void main(String[] args) {
 
-        String serverName = "FELINISY"; // e.g., localhost, yourserver.database.windows.net
-        String databaseName = "Hospital";
-        String username = "sa";
-        String password = "!234";
+        String serverName = "*******"; // e.g., localhost, yourserver.database.windows.net
+        String databaseName = "******";
+        String username = "****";
+        String password = "****";
         String portNumber = "1433"; // Default SQL Server port
 
         // SQL Server JDBC driver class
